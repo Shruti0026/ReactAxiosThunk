@@ -1,0 +1,34 @@
+{
+  "UsersData": [
+    {
+      "id": 3,
+      "username": "clementine",
+      "email": "Clementine@gmail.com",
+      "password": "clementine3"
+    },
+    {
+      "username": "anuradha",
+      "email": "anuradha@gmail.com",
+      "password": "anuradha",
+      "id": 4
+    },
+    {
+      "username": "shrut",
+      "email": "shruti@gmail.com",
+      "password": "shrut",
+      "id": 5
+    },
+    {
+      "username": "om",
+      "email": "om@gmail.com",
+      "password": "om123",
+      "id": 6
+    },
+    {
+      "username": "demo",
+      "email": "demo@gmail.com",
+      "password": "demo123",
+      "id": 7
+    }
+  ]
+}
